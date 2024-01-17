@@ -332,7 +332,7 @@ color: #005b9e;
 }
 
 .close:hover {
-  color: #ff0000; /* Измените на желаемый цвет при наведении */
+  color: #ff0000; 
 }
 
 h3 {
@@ -378,6 +378,6 @@ button {
 }
 
 button:hover {
-  background-color: #005b9e; /* Измените на желаемый цвет при наведении */
+  background-color: #005b9e; 
 }
 </style>
